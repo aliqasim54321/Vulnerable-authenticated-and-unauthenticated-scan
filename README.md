@@ -204,7 +204,7 @@ Enable all **Scan-Wide Credential Settings**.
 
 > **Figure 8:** Windows Credentials Configuration
 
-![Figure 8](images/fig8.png)
+![Figure 8](images/fig9.png)
 
 ---
 
@@ -225,7 +225,7 @@ This registry modification allows local administrator accounts to authenticate r
 
 > **Figure 9:** PowerShell Command Execution
 
-![Figure 9](images/fig9.png)
+![Figure 9](images/fig10.png)
 
 ---
 
@@ -245,7 +245,7 @@ After completion:
 
 > **Figure 10:** Authenticated Scan Results
 
-![Figure 10](images/fig10.png)
+![Figure 10](images/fig7.png)
 
 ---
 
@@ -264,6 +264,7 @@ After completion:
 > **Figure 11:** Comparison of Scan Results
 
 ![Figure 11](images/fig11.png)
+![Figure 12](images/fig12.png)
 
 ---
 
