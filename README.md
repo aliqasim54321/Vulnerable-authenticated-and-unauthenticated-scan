@@ -77,7 +77,7 @@ Example configuration:
 
 | Setting | Value |
 |---------|-------|
-| Source | 10.0.0.x (Scanner) |
+| Source | 10.0.0.8 (Scanner) |
 | Destination | Virtual Machine |
 | Protocol | Any |
 | Action | Allow |
