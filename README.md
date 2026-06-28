@@ -125,7 +125,7 @@ Configure the scan using the following settings:
 
 > **Figure 5:** Basic Network Scan Configuration
 
-![Figure 5](images/fig5.png)
+![Figure 5](images/fig13.png)
 
 ---
 
